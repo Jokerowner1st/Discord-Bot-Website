@@ -13,7 +13,7 @@ export default function Index() {
           Brux Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with Brux bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       Brux bot ile kendi sunucunuzu yönetmeye ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi çalma listenizi oluşturun, bu keyfi en iyi komutları deneyin. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -46,7 +46,7 @@ Vote Brux</a>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Brux Bot" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
+            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Kendi duygularınızla kendinizi rahatlatabileceğiniz en iyi ortamı yaratmaya ne dersiniz?" }}/>
             <a href="https://discord.com/api/oauth2/authorize?client_id=1125240286663168051&permissions=8&scope=bot" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Invite Brux
             </a>
@@ -57,13 +57,13 @@ Vote Brux</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Brux gives you a musical pleasure to the fullest.</p>
+                  <p className="text-gray-500 line-clamp-4">Sunucunuza özel hızlı ve özelleştirilebilir ayarlarla Brux size keyfini yaşatır.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-platform music playback. (Spotify, Souncloud, YouTube) | (It is a bot that complies with all copyrights and licenses.)</p>
+                  <p className="text-gray-500 line-clamp-4">Çok platformlu destekleyen bir bot. | (Tüm telif hakları ve lisanslara uygun bir bottur.)</p>
                 </div>
               </div>
               <div>
