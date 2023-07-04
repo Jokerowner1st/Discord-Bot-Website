@@ -20,7 +20,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Brux Bot.
+        Brux Bot'un komutları hakkında bilgi alabilirsiniz..
         </p>
 
         <div>
@@ -31,7 +31,7 @@ export default function Commands() {
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
-                     View Commands List
+                     Komut Listesini Görüntüle
                     </>
                 
                 </div>
