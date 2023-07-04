@@ -3,12 +3,27 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "f!yardım",
-    "f!komutlar",
-    "f!moderasyon",
-    "f!eğlence",
-    
-
+    "/help",
+    "/invite",
+    "/lyrics",
+    "/ping",
+    "/stats",
+    "/setdj",
+    "/play",
+    "/serach",
+    "/stop",
+    "/skip",
+    "/back",
+    "/clear",
+    "/time",
+      "/queue",
+      "/pause",
+      "/resume",
+      "/volume",
+      "/nowplaying",
+      "/save",
+      "/loop",
+      "/filter"
       ]
   return (
     <>
@@ -21,7 +36,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Brux Bot.
+        You can get information about the commands of the Astra Bot.
         </p>
 
         <div>
@@ -49,13 +64,13 @@ export default function Commands() {
               <Menu.Items className="z-1 custom-scroll absolute left-0 w-full mt-2 origin-top-right bg-black overflow-auto max-h-60 border border-black border-opacity-20 bg-opacity-95 rounded-lg p-1">
                 <div className="px-1 py-1 w-full">
 
-            {commands.map(brux => (
+            {commands.map(astra => (
 
                 <Menu.Item>
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {Brux}</>
+                         {astra}</>
                     </button>
                     </Menu.Item>
             ))}
@@ -80,9 +95,9 @@ Invite Brux</a>
 Support Server</a>
   </Link>
 
-          <div className="py-10"></div>
-
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <div className="py-10"></div>
+  
+  <Link href={"https://discord.gg/MAnUcEKM9M"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Brux</a>
   </Link>
