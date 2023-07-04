@@ -56,26 +56,26 @@ Vote Brux</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> optimizasyon</p>
                   <p className="text-gray-500 line-clamp-4">Sunucunuza özel hızlı ve özelleştirilebilir ayarlarla Brux size keyfini yaşatır.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Evrensel</p>
                   <p className="text-gray-500 line-clamp-4">Çok platformlu destekleyen bir bot. | (Tüm telif hakları ve lisanslara uygun bir bottur.)</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
-                  <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Güvenlik</p>
+                  <p className="text-gray-500 line-clamp-4">Göz atabileceğiniz ve geliştirmemize yardımcı olabileceğiniz açık kaynaklı bir güvenli bot.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
-                  <p className="text-gray-500 line-clamp-4">With our best teammates, we provide the fastest response to anyone who needs help.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Destek</p>
+                  <p className="text-gray-500 line-clamp-4">En iyi ekip arkadaşlarımızla, yardıma ihtiyacı olan herkese en hızlı şekilde yanıt veriyoruz.</p>
                 </div>
               </div>
           </div>
