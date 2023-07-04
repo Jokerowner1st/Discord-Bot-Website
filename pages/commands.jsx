@@ -3,27 +3,11 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    "f!yardım",
+    "f!komutlar",
+    "f!moderasyon",
+    "f!eğlence",
+  
       ]
   return (
     <>
@@ -36,7 +20,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        You can get information about the commands of the Brux Bot.
         </p>
 
         <div>
