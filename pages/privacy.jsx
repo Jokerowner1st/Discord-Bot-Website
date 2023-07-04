@@ -7,9 +7,9 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ Brux botu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekmektedir. <a className="text-white">(MODERASYON BOTU BRUX TEAM)</a></p>
         <div className="py-3"></div>
-        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot when using certain commands from the bot commands.</p>
+        <p>⊳ için oy kullanmalısın <a className="text-white" href=""</a> bot komutlarından belirli komutları kullanırken bot.</p>
         <div className="py-3"></div>
-        <p>⊳ Every user can use the astra bot however they want, as long as they do not intend to harm.</p>
+        <p>⊳ Her kullanıcı zarar verme amacı taşımadığı sürece brux botu istediği gibi kullanabilir.</p>
         <div className="py-3"></div>
         <p>⊳ You cannot use certain commands at the same time while using Astra.</p>   
         <div className="py-3"></div>
