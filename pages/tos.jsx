@@ -10,11 +10,11 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Diğer sunuculara zarar vermek için açık kaynak kodları kullanamazsınız.</p>
 <div className="py-3"></div>
-<p>⊳ You may not sell or market open source codes through other platforms.</p>
+<p>⊳ Diğer platformlar aracılığıyla açık kaynak kodlarını satamaz veya pazarlayamazsınız.</p>
 <div className="py-3"></div>
-<p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
+<p>⊳ Botu kullanırken diğer kullanıcılara zarar verecek şekilde troll amaçlı kullanamazsınız.</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot at certain intervals.</p>
+<p>⊳ Belirli discord bot komutlarını kullanmak için şuna oy vermeniz gerekir: <a className="text-white" href=""></a> belirli aralıklarla bot.</p>
 </div>
     </div>
   );
