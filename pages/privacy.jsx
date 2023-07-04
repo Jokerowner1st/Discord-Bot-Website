@@ -11,11 +11,11 @@ export default function Privacy() {
         <div className="py-3"></div>
         <p>⊳ Her kullanıcı zarar verme amacı taşımadığı sürece brux botu istediği gibi kullanabilir.</p>
         <div className="py-3"></div>
-        <p>⊳ You cannot use certain commands at the same time while using Astra.</p>   
+        <p>⊳ Brux kullanırken belirli komutları aynı anda kullanamazsınız.</p>   
         <div className="py-3"></div>
-        <p>⊳ Astra bot does not save any data based on users.</p>
+        <p>⊳ Brux bot, kullanıcı bazında herhangi bir veri kaydetmez.</p>
         <div className="py-3"></div>
-        <p>⊳ While using the bot, your user ID is saved and deleted in the system for 60 seconds for once.</p> 
+        <p>⊳ Botu kullanırken kullanıcı kimliğiniz bir defaya mahsus olmak üzere 60 saniye süreyle sisteme kaydedilir ve silinir.</p> 
     
         </div>
             </div>
