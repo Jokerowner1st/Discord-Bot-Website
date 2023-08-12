@@ -30,16 +30,16 @@ export default function Footer() {
                                         />
                                     </Menu.Button>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+<a href="https://top.gg/bot/1125240286663168051">
+  <img src={"https://top.gg/api/widget/servers/1125240286663168051.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
+<a href="https://top.gg/bot/1125240286663168051">
+  <img src={"https://top.gg/api/widget/upvotes/1125240286663168051.svg"}/>
 </a>
 <div className="py-1"></div>
-<a href="https://top.gg/bot/924325576095973426">
-  <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
+<a href="https://top.gg/bot/1125240286663168051">
+  <img src={"https://top.gg/api/widget/owner/1125240286663168051.svg"}/>
 </a>
                                 </div>
                             </Menu>
@@ -60,7 +60,7 @@ export default function Footer() {
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://bit.ly/3PHDjyC" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/oauth2/authorize?client_id=1125240286663168051&scope=bot%20applications.commands&permissions=2146958847" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
