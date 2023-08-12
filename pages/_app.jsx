@@ -44,14 +44,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=1125240286663168051&permissions=8&scope=bot",
+      href: "https://discord.com/oauth2/authorize?client_id=1125240286663168051&scope=bot%20applications.commands&permissions=2146958847",
     },
        {
       link: true,
       name: "Vote",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/774043716797071371/vote",
+      href: "https://top.gg/bot/1125240286663168051/vote",
     },
     {
       link: true,
